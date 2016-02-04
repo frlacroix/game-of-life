@@ -4,7 +4,8 @@ import static com.wakaleo.gameoflife.domain.Cell.DEAD_CELL;
 import static com.wakaleo.gameoflife.domain.Cell.LIVE_CELL;
 
 public class Grid {
-
+	
+	//FLX test avec 5 colonnes
     private static final int DEFAULT_ROW_COUNT = 5;
     private static final int DEFAULT_COLUMN_COUNT = 5;
 
